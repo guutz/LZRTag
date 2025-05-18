@@ -3,7 +3,7 @@
 	url = https://github.com/guutz/XasCode.git
 [submodule "ESP32/Main/lzrtag-esp-components"]
 	path = ESP32/Main/lzrtag-esp-components
-	url = https://github.com/lzrtag/lzrtag-esp-components.git
+	url = https://github.com/guutz/lzrtag-esp-components.git
 [submodule "ESP32/Main/sounds/lzrtag-sfx"]
 	path = ESP32/Main/sounds/lzrtag-sfx
 	url = https://github.com/lzrtag/lzrtag-sfx.git
